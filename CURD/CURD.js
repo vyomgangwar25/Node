@@ -33,4 +33,4 @@ const filePath=`${dirPath}/apple.txt`;//it gives(create) path of file in curd fo
 // })
 
 //DELETE FILE
-fs.unlinkSync(`${dirPath}/fruit.txt`)
+// fs.unlinkSync(`${dirPath}/fruit.txt`)
